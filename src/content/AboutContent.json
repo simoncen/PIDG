@@ -1,0 +1,16 @@
+{
+  "title": "Experienced, creative & dedicated",
+  "text": "Our team consists of experienced developers and analysts coming from different industries, big tech companies, and well-known universities.",
+  "section": [
+    {
+      "title": "Why diversity?",
+      "content": "We believe that the diverse background of members can spark creativity.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why for students?",
+      "content": "Students are the future. They brings energy to the community.",
+      "icon": "notes.svg"
+    }
+  ]
+}

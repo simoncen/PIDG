@@ -1,0 +1,13 @@
+{
+  "title": "Open-source software student company group",
+  "text": " Potatoe Interactive Development Group consistently explores new innovative technologies and projects. The company is dedicated to developing open-source software to help student developers all over the world.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
